@@ -93,6 +93,7 @@
                 }
                 else
                 {
+                    //do
                     if (data[i] == 'd')
                     {
                         indexOfDo = 0;

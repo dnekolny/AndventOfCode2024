@@ -67,7 +67,6 @@
                 {
                     result += int.Parse(firstNumber) * int.Parse(secondNumber);
                     numberOfMuls++;
-
                 }
 
                 indexOfMul = -1;

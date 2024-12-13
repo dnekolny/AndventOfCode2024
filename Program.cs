@@ -1,6 +1,4 @@
-﻿using AndventOfCode2024.Day7;
-
-//DAY1
+﻿//DAY1
 //new Day1Task().RunTask();
 //new Day1TaskPart2().RunTask();
 
@@ -27,4 +25,14 @@
 
 //DAY7
 //new Day7Task1().RunTask();
-new Day7Task2().RunTask();
+//new Day7Task2().RunTask();
+
+//DAY8
+//new Day8Task1().RunTask();
+//new Day8Task2().RunTask();
+
+//DAY9
+using AndventOfCode2024.Day9;
+
+//new Day9Task1().RunTask();
+new Day9Task2().RunTask();
