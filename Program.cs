@@ -32,7 +32,12 @@
 //new Day8Task2().RunTask();
 
 //DAY9
-using AndventOfCode2024.Day9;
-
 //new Day9Task1().RunTask();
-new Day9Task2().RunTask();
+//new Day9Task2().RunTask();
+
+
+//DAY10
+using AndventOfCode2024.Day10;
+
+new Day10Task1().RunTask();
+new Day10Task2().RunTask();
